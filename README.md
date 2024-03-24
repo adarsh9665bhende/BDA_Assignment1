@@ -19,5 +19,5 @@ This repository contains code and a report for comparing two Bayesian inference 
 - PyMC3
 - NumPy
 - Matplotlib
-- LaTeX (for compiling the report)
+
 

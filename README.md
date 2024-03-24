@@ -1,5 +1,7 @@
 # Bayesian Inference Techniques Comparison
 
+Please ignore the future warnings
+
 ## Introduction
 
 This repository contains code and a report for comparing two Bayesian inference techniques: Markov Chain Monte Carlo (MCMC) and Variational Inference (VI). 

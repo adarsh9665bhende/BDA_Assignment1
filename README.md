@@ -7,7 +7,7 @@ This repository contains code and a report for comparing two Bayesian inference 
 ## Contents
 
 - `Assignment1/`: Contains Jupyter Notebook implementing the Python programs in PyMC3 using MCMC and variational inference algorithms to learn posterior distribution over the parameters.
-- `data/`: Contains sample data used for inference.
+- `data/`: Contains pumps data used for inference.
 - `report/`: Contains a LaTeX report detailing the experimental setup, implementation details, results, and analysis.
 - `README.md`: This file providing an overview of the project.
 - `posterior_dist_plot_VI.png`: Plot showing the posterior distribution obtained using VI.

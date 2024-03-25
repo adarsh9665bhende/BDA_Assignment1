@@ -1,6 +1,6 @@
 # Bayesian Inference Techniques Comparison
 
-Please ignore the future warnings
+Please ignore the warnings
 
 ## Introduction
 
@@ -12,8 +12,8 @@ This repository contains code and a report for comparing two Bayesian inference 
 - `data/`: Contains pumps data used for inference.
 - `report/`: Contains a LaTeX report detailing the experimental setup, implementation details, results, and analysis.
 - `README.md`: This file providing an overview of the project.
-- `posterior_dist_plot_VI.png`: Plot showing the posterior distribution obtained using VI.
-- `posterior_dist_plot_MCMC.png`: Plot showing the posterior distribution obtained using MCMC.
+- `posterior_dist_plot_2.png`: Plot showing the posterior distribution obtained using VI.
+- `posterior_dist_plot_1.png`: Plot showing the posterior distribution obtained using MCMC.
 
 ## Requirements
 
@@ -21,5 +21,6 @@ This repository contains code and a report for comparing two Bayesian inference 
 - PyMC3
 - NumPy
 - Matplotlib
+- arviz
 
 
